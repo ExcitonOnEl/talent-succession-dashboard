@@ -4,11 +4,9 @@ Only 16 of 1,233 active employees (1.3%) are ready for promotion right now, and 
 
 I built it in Power BI on top of the IBM HR Analytics dataset. It puts every active employee on a 9-box talent grid, shows who is ready to step up at each job level, and flags 130 good performers (10.5%) who haven't been promoted in 3 years or more.
 
-![Dashboard](Power%20BI%20dashboard/dashboard.png)
-
 Tools: Python (pandas, NumPy), Power BI, DAX
 Data: [IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset), a fictional sample of 1,470 employees and 35 columns
-Full write-up: [case study](https://claude.ai/artifact/MXzNwv7XGd6EeyEMws8d6s)
+Full write-up: [case study](https://drive.google.com/file/d/1TfIMVftdg4eRFMqqJfEYhTgbyfuN4-uV/view?usp=sharing)
 
 ## Questions I wanted to answer
 
